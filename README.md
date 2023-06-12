@@ -1,0 +1,2 @@
+# AppQR
+FlutterApplication
